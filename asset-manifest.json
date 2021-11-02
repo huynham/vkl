@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/huynham/vkl.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/huynham/vkl.git/static/js/main.9921a736.chunk.js",
+    "main.js.map": "/huynham/vkl.git/static/js/main.9921a736.chunk.js.map",
+    "runtime-main.js": "/huynham/vkl.git/static/js/runtime-main.80373d7a.js",
+    "runtime-main.js.map": "/huynham/vkl.git/static/js/runtime-main.80373d7a.js.map",
+    "static/js/2.0b94e212.chunk.js": "/huynham/vkl.git/static/js/2.0b94e212.chunk.js",
+    "static/js/2.0b94e212.chunk.js.map": "/huynham/vkl.git/static/js/2.0b94e212.chunk.js.map",
+    "static/js/3.ca47da3b.chunk.js": "/huynham/vkl.git/static/js/3.ca47da3b.chunk.js",
+    "static/js/3.ca47da3b.chunk.js.map": "/huynham/vkl.git/static/js/3.ca47da3b.chunk.js.map",
+    "index.html": "/huynham/vkl.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/huynham/vkl.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0b94e212.chunk.js.LICENSE.txt": "/huynham/vkl.git/static/js/2.0b94e212.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/huynham/vkl.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80373d7a.js",
+    "static/js/2.0b94e212.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9921a736.chunk.js"
+  ]
+}
